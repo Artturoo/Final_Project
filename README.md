@@ -1,10 +1,10 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png) 
 
-# Final Project: PREDICCION DEL VALOR FINAL DE LAS SUBASTAS
+## Final Project: PREDICCION DEL VALOR FINAL DE LAS SUBASTAS
 
 <p align="center"> <img src="https://github.com/Artturoo/Final_Project/blob/main/img/primera.png" width="700" height="350">  </p>
 
-# INDICE
+## INDICE
 
 
  1. Objetivo.
